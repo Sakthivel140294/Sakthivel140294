@@ -1,21 +1,32 @@
- I’m currently working on:<br>       
- Process automation and data analytics at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>        
- Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br><br>
- I’m looking to collaborate on:<br>   
- Predictive analytics projects using SQL and Python.<br> 
- Power BI dashboard automation and advanced data visualization.<br>      
- Big data processing and ETL pipeline development in cloud environments.<br><br>
- I’m looking for help with:<br> 
- Exploring Azure big data services like Synapse, Databricks, and Data Factory.<br>       
- Advanced AI-driven decision support systems for business intelligence.<br><br>
- I’m currently learning:<br>    
- Azure cloud solutions for big data and analytics.<br>   
- Generative AI applications in data storytelling and automation.<br><br>
- 💡 Ask me about:<br>     
- SQL query optimization and ETL best practices.<br>      
- Power BI DAX, Power Query, and real-time dashboards.<br>        
- Predictive modeling and machine learning for business analytics.<br>    
- Process automation strategies for reducing manual workloads.<br>
+💼 I'm currently working on:<br>
+
+1.Process automation and data analytics at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>
+2.Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br>
+🤝 I'm looking to collaborate on:<br>
+
+1.Predictive analytics projects using SQL and Python.<br>
+2.Power BI dashboard automation and advanced data visualization.<br>
+3.Big data processing and ETL pipeline development in cloud environments.<br>
+❓ I'm looking for help with:<br>
+
+1.Exploring Azure big data services like Synapse, Databricks, and Data Factory<br>
+2.Advanced AI-driven decision support systems for business intelligence.<br>
+📚 I'm currently learning:<br>
+
+1.Azure cloud solutions for big data and analytics.<br>
+2.Generative AI applications in data storytelling and automation.<br>
+💡 Ask me about:<br>
+
+1.SQL query optimization and ETL best practices.<br>
+2.Power BI DAX, Power Query, and real-time dashboards.<br>
+3.Predictive modeling and machine learning for business analytics.<br>
+4.Process automation strategies for reducing manual workloads.<br>
+🎉 4 Fun Facts About Me:<br>
+
+1.I automated a cost leakage detection system that reduced financial losses by 90%!<br>
+2.I love solving SQL query performance issues—it’s like a puzzle to me.<br>
+3.I once analyzed age-at-death distributions to debunk myths about handedness!<br>
+4.I built a drone-based food delivery route optimization system using GIS and AI.<br>
 
 
  ## 🌐 Socials:
