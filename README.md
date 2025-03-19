@@ -1,26 +1,26 @@
 💼 I'm currently working on:<br>
 
 1.Process automation and data analytics at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>
-2.Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br>
+2.Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br><br>
 🤝 I'm looking to collaborate on:<br>
 
 1.Predictive analytics projects using SQL and Python.<br>
 2.Power BI dashboard automation and advanced data visualization.<br>
-3.Big data processing and ETL pipeline development in cloud environments.<br>
+3.Big data processing and ETL pipeline development in cloud environments.<br><br>
 ❓ I'm looking for help with:<br>
 
 1.Exploring Azure big data services like Synapse, Databricks, and Data Factory<br>
-2.Advanced AI-driven decision support systems for business intelligence.<br>
+2.Advanced AI-driven decision support systems for business intelligence.<br><br>
 📚 I'm currently learning:<br>
 
 1.Azure cloud solutions for big data and analytics.<br>
-2.Generative AI applications in data storytelling and automation.<br>
+2.Generative AI applications in data storytelling and automation.<br><br>
 💡 Ask me about:<br>
 
 1.SQL query optimization and ETL best practices.<br>
 2.Power BI DAX, Power Query, and real-time dashboards.<br>
 3.Predictive modeling and machine learning for business analytics.<br>
-4.Process automation strategies for reducing manual workloads.<br>
+4.Process automation strategies for reducing manual workloads.<br><br>
 🎉 4 Fun Facts About Me:<br>
 
 1.I automated a cost leakage detection system that reduced financial losses by 90%!<br>
