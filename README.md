@@ -1,6 +1,6 @@
 💼 I'm currently working on:<br>
 
-1.Process automation and data analytics at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>
+1.Process Expert at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>
 2.Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br><br>
 🤝 I'm looking to collaborate on:<br>
 
