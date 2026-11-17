@@ -26,7 +26,7 @@ I architect scalable data pipelines, optimize enterprise SQL databases, and buil
 - **AI-Driven BI** solutions integrating forecasting and anomaly detection directly into Power BI
 
 ### 🌐 Connect With Me
-- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sakthivel-data-analyst)
 - 🌍 **Portfolio:** [sakthivelramaninsights.designfolio.me](https://designfolio.me)
 - 📩 **Email:** sakthikarthikeyan2@gmail.com
 
