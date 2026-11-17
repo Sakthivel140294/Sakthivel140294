@@ -1,32 +1,34 @@
-💼 I'm currently working on:<br>
+# Hi, I'm Sakthivel Raman 👋
+### Lead BI & Azure Data Engineer | 11+ Years in MS SQL, Power BI, Azure Data Factory, Microsoft Fabric & Python
 
-1.Process Expert at Maersk Global Services, focusing on optimizing SQL performance, cost forecasting, and KPI analysis.<br>
-2.Real-time anomaly detection and financial optimization using SQL, Power BI, and machine learning models.<br><br>
-🤝 I'm looking to collaborate on:<br>
+I architect scalable data pipelines, optimize enterprise SQL databases, and build AI-powered Business Intelligence solutions that turn complex operational data into measurable financial impact.
 
-1.Predictive analytics projects using SQL and Python.<br>
-2.Power BI dashboard automation and advanced data visualization.<br>
-3.Big data processing and ETL pipeline development in cloud environments.<br><br>
-❓ I'm looking for help with:<br>
+---
 
-1.Exploring Azure big data services like Synapse, Databricks, and Data Factory<br>
-2.Advanced AI-driven decision support systems for business intelligence.<br><br>
-📚 I'm currently learning:<br>
+### 🚀 Current Focus & Architecture
+- **Enterprise BI & Data Engineering at Nordex:** Designing and managing end-to-end ETL/ELT ingestion workflows, **MS SQL Server** performance tuning, and **Power BI** analytical models.
+- **Cloud Modernization & AI Analytics:** Building Lakehouse architectures in **Microsoft Fabric** and **Azure Databricks (PySpark)**, alongside predictive anomaly-detection models in **Python** and **R**.
 
-1.Azure cloud solutions for big data and analytics.<br>
-2.Generative AI applications in data storytelling and automation.<br><br>
-💡 Ask me about:<br>
+### 💡 Core Technical Expertise
+- **Cloud & Data Engineering:** Azure Data Factory (ADF), Microsoft Fabric (OneLake, Lakehouse, Dataflows Gen2), Azure Databricks, Delta Lake, API Ingestion
+- **Databases & Warehousing:** MS SQL Server, Azure SQL, T-SQL Query Optimization, Dimensional Modeling (Star & Snowflake Schemas)
+- **Business Intelligence:** Power BI (Advanced DAX, Power Query, Tabular Editor, Row-Level Security, Performance Tuning)
+- **Programming & AI/ML:** Python (Pandas, PySpark, Scikit-learn), R Programming, Automated Anomaly Detection & Forecasting
 
-1.SQL query optimization and ETL best practices.<br>
-2.Power BI DAX, Power Query, and real-time dashboards.<br>
-3.Predictive modeling and machine learning for business analytics.<br>
-4.Process automation strategies for reducing manual workloads.<br><br>
-🎉 4 Fun Facts About Me:<br>
+### 🏆 Key Impact & Highlights
+- 💰 **90% Reduction in Financial Leakage:** Engineered an automated cost-leakage detection system combining SQL, statistical modeling, and Power BI alerts.
+- ⚡ **Query & Pipeline Optimization:** Reduced reporting latency and improved SLA reliability across high-volume enterprise MS SQL and Azure data pipelines.
+- 🛸 **Applied AI & GIS:** Built a drone-based food delivery route optimization prototype using GIS spatial data and machine learning algorithms.
 
-1.I automated a cost leakage detection system that reduced financial losses by 90%!<br>
-2.I love solving SQL query performance issues—it’s like a puzzle to me.<br>
-3.I once analyzed age-at-death distributions to debunk myths about handedness!<br>
-4.I built a drone-based food delivery route optimization system using GIS and AI.<br>
+### 🤝 Open to Collaborating On
+- End-to-end **Microsoft Fabric & Azure Data Engineering** architectures
+- **Analytics Engineering** workflows (SQL, Python, PySpark, and automated data quality testing)
+- **AI-Driven BI** solutions integrating forecasting and anomaly detection directly into Power BI
+
+### 🌐 Connect With Me
+- 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- 🌍 **Portfolio:** [sakthivelramaninsights.designfolio.me](https://designfolio.me)
+- 📩 **Email:** sakthikarthikeyan2@gmail.com
 
 
  ## 🌐 Socials:
