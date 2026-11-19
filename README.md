@@ -21,7 +21,7 @@ Currently working as a Business Intelligence Specialist at Nordex, supporting gl
 
 • Business Analytics – KPI monitoring, SLA reporting and root cause analysis
 
-###**Career Focus & Professional Development:**
+### **Career Focus & Professional Development:**
 
 • Cloud & Data Engineering: Azure Data Factory (ADF), Microsoft Fabric, ETL/ELT Pipeline Orchestration, API Data Integration, Delta Lake
 
