@@ -1,5 +1,5 @@
 # Hi, I'm Sakthivel Raman 👋
-### Lead BI & Azure Data Engineer | 11+ Years in MS SQL, Power BI, Azure Data Factory, Microsoft Fabric & Python
+### Specialist - Business Intelligence | Power BI • SQL• Python • R • Azure • Microsoft Fabric(Learning) | Data Analytics | ETL & Data Integration | Data Ingestion | REST API Integration | Data Modelling
 
 I am a Business Intelligence and Analytics professional with 11+ years of overall professional experience across business operations, reporting, process excellence and data analytics.
 
