@@ -1,32 +1,58 @@
 # Hi, I'm Sakthivel Raman 👋
 ### Lead BI & Azure Data Engineer | 11+ Years in MS SQL, Power BI, Azure Data Factory, Microsoft Fabric & Python
 
-I architect scalable data pipelines, optimize enterprise SQL databases, and build AI-powered Business Intelligence solutions that turn complex operational data into measurable financial impact.
+I am a Business Intelligence and Analytics professional with 11+ years of overall professional experience across business operations, reporting, process excellence and data analytics.
 
----
+Currently working as a Business Intelligence Specialist at Nordex, supporting global wind energy operations through data analysis, dashboard development, data ingestion, pipeline monitoring and reporting solutions.
 
-### 🚀 Current Focus & Architecture
-- **Enterprise BI & Data Engineering at Nordex:** Designing and managing end-to-end ETL/ELT ingestion workflows, **MS SQL Server** performance tuning, and **Power BI** analytical models.
-- **Cloud Modernization & AI Analytics:** Building Lakehouse architectures in **Microsoft Fabric** and **Azure Databricks (PySpark)**, alongside predictive anomaly-detection models in **Python** and **R**.
+### **Core Technical Expertise:**
 
-### 💡 Core Technical Expertise
-- **Cloud & Data Engineering:** Azure Data Factory (ADF), Microsoft Fabric (OneLake, Lakehouse, Dataflows Gen2), Azure Databricks, Delta Lake, API Ingestion
-- **Databases & Warehousing:** MS SQL Server, Azure SQL, T-SQL Query Optimization, Dimensional Modeling (Star & Snowflake Schemas)
-- **Business Intelligence:** Power BI (Advanced DAX, Power Query, Tabular Editor, Row-Level Security, Performance Tuning)
-- **Programming & AI/ML:** Python (Pandas, PySpark, Scikit-learn), R Programming, Automated Anomaly Detection & Forecasting
+• SQL – Data extraction, transformation, joins and analytical queries
 
-### 🏆 Key Impact & Highlights
-- 💰 **90% Reduction in Financial Leakage:** Engineered an automated cost-leakage detection system combining SQL, statistical modeling, and Power BI alerts.
-- ⚡ **Query & Pipeline Optimization:** Reduced reporting latency and improved SLA reliability across high-volume enterprise MS SQL and Azure data pipelines.
-- 🛸 **Applied AI & GIS:** Built a drone-based food delivery route optimization prototype using GIS spatial data and machine learning algorithms.
+• Power BI – Dashboard development, reporting and data visualisation
 
-### 🤝 Open to Collaborating On
-- End-to-end **Microsoft Fabric & Azure Data Engineering** architectures
-- **Analytics Engineering** workflows (SQL, Python, PySpark, and automated data quality testing)
-- **AI-Driven BI** solutions integrating forecasting and anomaly detection directly into Power BI
+• DAX & Power Query – Business calculations and data transformation
+
+• R Programming – Data processing and analytical reporting
+
+• Microsoft Excel – Reporting, analysis and automation
+
+• Data Integration –  REST API integration and data ingestion
+
+• Business Analytics – KPI monitoring, SLA reporting and root cause analysis
+
+###**Career Focus & Professional Development:**
+
+• Cloud & Data Engineering: Azure Data Factory (ADF), Microsoft Fabric, ETL/ELT Pipeline Orchestration, API Data Integration, Delta Lake
+
+• Databases & Data Modeling: MS SQL Server, T-SQL Query Optimization, Dimensional Modeling (Star & Snowflake Schemas)
+
+• Enterprise BI & Visualization: Power BI (Advanced DAX, Power Query, Tabular Editor, Row-Level Security, Performance Tuning)
+
+• Programming & Predictive Analytics: Python (Pandas, PySpark, Scikit-learn), R Programming, Automated Anomaly Detection
+
+• Data Governance & Reliability: End-to-End SLA Ownership, Automated Data Quality Validation, Root-Cause Engineering
+
+### **Career Interests:**
+
+I am interested in opportunities involving
+
+• Lead Analytics Engineer
+
+• Senior/Lead BI Engineer
+
+• BI Technical Lead
+
+• Senior Business Intelligence 
+
+• Power BI Technical Lead
+
+• Analytics Engineer
+
+• Business Intelligence Consultant
 
 ### 🌐 Connect With Me
-- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sakthivel-data-analyst)
+- 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/sakthivel-raman)
 - 🌍 **Portfolio:** [sakthivelramaninsights.designfolio.me](https://designfolio.me)
 - 📩 **Email:** sakthikarthikeyan2@gmail.com
 
